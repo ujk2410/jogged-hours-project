@@ -1,9 +1,9 @@
-# Basic Project
+# Welcome to Jogged hours Project
 ## Basic Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Jogged hours Project*
 
-**Java 7**
+**Java 8**
 
 * Maven
 * JUnit 4
